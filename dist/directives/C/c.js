@@ -2,13 +2,13 @@
     'use strict';
     
 
-    function superAlert() {
+    function c() {
         return {
             restrict: 'E',
             //scope: {
             //},
             replace: false,
-            templateUrl: '/directives/superAlert/superAlert.html',
+            templateUrl: '/directives/C/c.html',
             link: function (scope, element, attrs) {
                 scope.click = function() {
                     alert('abcd');
@@ -16,5 +16,5 @@
             }
         };
     };
-    angular.module('atom.superalert').directive('superAlert', superAlert);
+    angular.module('atom.c').directive('c', c);
 })();

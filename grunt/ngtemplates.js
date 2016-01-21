@@ -1,7 +1,7 @@
 module.exports = {
     
-    //[NOTE] the module name (atom.superalert) has to be manually updated for each lib
-	"atom.superalert": {
+    //[NOTE] the module name (atom.c) has to be manually updated for each lib
+	"atom.c": {
 		src: 'src/**/*.html',
 		dest: 'dist/templates.js',
 		options: {

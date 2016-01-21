@@ -24,5 +24,8 @@
     "grunt-ng-annotate": "^1.0.1",
     "grunt-open": "^0.2.3",
     "load-grunt-config": "^0.19.1"
+  },
+  "dependencies": {
+    "@abot/super-alert": "^2.0.0"
   }
 }
