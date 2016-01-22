@@ -8,7 +8,7 @@ angular.module('atom.c').run(['$templateCache', function($templateCache) {
     "\n" +
     "    \r" +
     "\n" +
-    "     <super-alert></super-alert>\r" +
+    "     <super-alert3></super-alert3>\r" +
     "\n" +
     "    \r" +
     "\n" +
