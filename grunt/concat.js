@@ -5,7 +5,7 @@ module.exports = {
             separator: '\n',
         },
         src: [
-            'node_modules/angular/angular.js',
+            'bower_components/angular/angular.js',
             'node_modules/@abot/super-alert/dist/module.js',
             'node_modules/@abot/super-alert/dist/*.js',
             'node_modules/@abot/super-alert/dist/**/*.js',                            
