@@ -1,6 +1,7 @@
 {
   "name": "C",
   "dependencies": {
-    "angular": "~1.3.0"
+    "angular": "~1.3.0",
+    "super-alert": "https://github.com/seescode/super-alert.git#^6.0.0"
   }
 }
