@@ -26482,7 +26482,7 @@ angular.module('atom.superalert').run(['$templateCache', function($templateCache
             }
         };
     };
-    angular.module('atom.superalert').directive('superAlert5', superAlert);
+    angular.module('atom.superalert').directive('superAlert6', superAlert);
 })();
 (function () {
 	'use strict';
@@ -26500,7 +26500,7 @@ angular.module('atom.c').run(['$templateCache', function($templateCache) {
     "\n" +
     "    \r" +
     "\n" +
-    "     <super-alert5></super-alert5>\r" +
+    "     <super-alert6></super-alert6>\r" +
     "\n" +
     "    \r" +
     "\n" +
